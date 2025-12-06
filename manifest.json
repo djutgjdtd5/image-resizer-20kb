@@ -1,0 +1,21 @@
+{
+  "name": "Image Resizer 20kb - SSC UPSC",
+  "short_name": "Resizer20kb",
+  "start_url": "https://orbitwebtools.github.io/image-resizer-20kb/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
